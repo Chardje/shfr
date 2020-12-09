@@ -1,0 +1,13 @@
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.exe
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.deps.json
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.runtimeconfig.json
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.runtimeconfig.dev.json
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.dll
+D:\Users\student\source\repos\shfr\shfr\bin\Debug\netcoreapp3.1\shfr.pdb
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.csprojAssemblyReference.cache
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.AssemblyInfoInputs.cache
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.AssemblyInfo.cs
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.csproj.CoreCompileInputs.cache
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.dll
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.pdb
+D:\Users\student\source\repos\shfr\shfr\obj\Debug\netcoreapp3.1\shfr.genruntimeconfig.cache
